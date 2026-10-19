@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:0c4a6e,100:0d1117&text=Talha&fontColor=f8fafc&fontSize=70&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=18&descAlign=50&descAlignY=62&section=header" width="100%" alt="Talha — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:0c4a6e,100:0d1117&text=Talha&fontColor=f8fafc&fontSize=70&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=18&descAlign=50&descAlignY=62&section=header" width="100%" alt="Talha Malik — Software Engineer" />
 
 <a href="https://github.com/talhaxalik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Engineering;AI-Powered+Products+%26+Agentic+Systems;Clean+Architecture.+Considered+Design.;Based+in+Islamabad%2C+Pakistan" alt="Typing animation" />

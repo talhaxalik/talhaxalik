@@ -1,18 +1,181 @@
-# About Me:
-🔭 I’m currently working on ERP SYSTEM<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about hmmm....<br>⚡ Fun fact Busy
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Talha%20Malik&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%20AI%20Builder&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
 
-## Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/talhaxalik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talhaxalik) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/talhaxalik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/talhaxalik) 
+<a href="https://github.com/talhaxalik">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+products+end-to-end;Team+Lead+%40+QUNO+CAMPUS+%E2%80%94+AI+e-Learning;Software+Engineer+%40+THE+NIXUS;Currently+exploring+Agentic+AI+%F0%9F%A4%96;Turning+ideas+into+clean%2C+shipped+code+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-# Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+<br/>
 
+<img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-AI%20Collaborations-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Busy%20Building-22c55e?style=for-the-badge&logo=rocket&logoColor=white" />
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=talhaxalik&icon=1&color=12)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/talhaxalik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://behance.net/talhaxalik"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" /></a>
+<a href="https://x.com/talhaxalik"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://pinterest.com/talhaxalik"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" /></a>
+<a href="mailto:talhaxalik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=talhaxalik&label=Profile%20Views&color=0ea5e9&style=flat-square" />
+
+</div>
+
+<!-- ============================== ABOUT ============================== -->
+
+## 👨‍💻 About Me
+
+```js
+const talha = {
+  role: ["Software Engineer @ THE NIXUS", "Software Team Lead @ QUNO CAMPUS"],
+  education: "BSc Software Engineering — SZABIST (2025)",
+  location: "Islamabad, Pakistan 🇵🇰",
+  experience: "1.5+ years shipping production software",
+  accelerator: "Accelerate Punjab",
+  currentlyBuilding: "ERP System 🏗️",
+  currentlyLearning: "Agentic AI 🤖",
+  lookingToCollaborate: "AI projects",
+  funFact: "Busy. Always. ⚡"
+};
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 What I'm Up To
+- 🏗️ Building an **ERP System**
+- 🎓 Leading engineering at **QUNO CAMPUS**, an AI-powered e-learning platform
+- 🤖 Learning and experimenting with **Agentic AI**
+- 🚀 Part of the **Accelerate Punjab** accelerator
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Let's Collaborate
+- 🧠 AI / LLM-powered products
+- 🌐 Full-stack web & mobile apps
+- 🎨 UI/UX-driven product builds
+- 💬 Ask me about **web dev, design, or shipping fast**
+
+</td>
+</tr>
+</table>
+
+<!-- ============================== EXPERIENCE ============================== -->
+
+## 💼 Experience
+
+| 🗓️ Period | 🏢 Company | 🎯 Role |
+|:--|:--|:--|
+| **Present** | **QUNO CAMPUS** — AI-powered e-learning platform | Software Team Lead |
+| **Present** | **THE NIXUS** | Software Engineer |
+| 2023 – 2024 | Electric Eye / Knowledge Pearls | Web Developer |
+| 2022 – 2023 | Konquer Solutions | Graphic Designer |
+
+<!-- ============================== TECH STACK ============================== -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,dart,html,css&perline=8" />
+
+**🎨 Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,mui,jquery,flutter,wordpress&perline=10" />
+
+**⚙️ Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask&perline=8" />
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb,sqlite,supabase,firebase,cassandra,gcp,digitalocean,vercel,nginx&perline=12" />
+
+**🧠 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&perline=8" />
+
+**🔧 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,postman,jira,gradle,npm&perline=10" />
+
+**🎨 Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,framer,gimp,inkscape&perline=8" />
+
+</div>
+
+<!-- ============================== STATS ============================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=talhaxalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaxalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=talhaxalik&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaxalik&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" width="100%" />
+
+</div>
+
+<!-- ============================== TROPHIES ============================== -->
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=talhaxalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" />
+
+</div>
+
+<!-- ============================== PRINCIPLES ============================== -->
+
+## 🧭 How I Build
+
+```text
+ ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+ │   Understand │ →  │    Design    │ →  │     Build    │ →  │     Ship     │
+ │  the problem │    │  it cleanly  │    │  it properly │    │  & iterate   │
+ └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
+```
+
+- ✅ Clean, maintainable, well-structured code
+- ✅ Design sense from my graphic design background, so products look as good as they work
+- ✅ Leading teams with clear communication and fast feedback loops
+- ✅ AI where it genuinely adds value
+
+<!-- ============================== CONNECT ============================== -->
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/talhaxalik"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://behance.net/talhaxalik"><img src="https://img.shields.io/badge/View%20my-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="mailto:talhaxalik@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" width="100%"/>
+
+<sub>⭐ If you like what you see, drop a star on a repo. Thanks for stopping by!</sub>
+
+</div>
